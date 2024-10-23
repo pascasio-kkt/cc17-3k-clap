@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">welcomepage</string>
+    <string name="text1">Welcome To BlueWave!</string>
+    <string name="text2">Optimize Water. Ensure Sustainability.</string>
+    <string name="button1">CREATE AN ACCOUNT</string>
+    <string name="button2">LOG IN</string>
+    <string name="login_text1">Welcome Back!</string>
+    <string name="login_text2">Please fill in your email password to login to your account.</string>
+    <string name="wlcme">Welcome</string>
+    <string name="bck">Back</string>
+    <string name="greet">Happy to have you back! Login to continue</string>
+    <string name="hinttxt">EMAIL</string>
+    <string name="hinttxt2">PASSWORD</string>
+    <string name="text">Forgot Password?</string>
+    <string name="btn">LOGIN</string>
+    <string name="texts1">Don\'t have an account?</string>
+    <string name="texts2">Signup</string>
+</resources>
